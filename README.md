@@ -1,1 +1,1 @@
-A new git repository ctreated
+A new git repository created
